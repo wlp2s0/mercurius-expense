@@ -1,0 +1,3 @@
+[submodule "mercurius-expense-be"]
+	path = mercurius-expense-be
+	url = https://github.com/wlp2s0/mercurius-expense-be.git
